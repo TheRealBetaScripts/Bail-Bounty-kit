@@ -24,4 +24,4 @@ This resource is only for use on FiveM servers. Redistribution, replication, or 
 
 
 
-**Theres is also a replace file included**
+**There is also a replace file included you do not need both**
