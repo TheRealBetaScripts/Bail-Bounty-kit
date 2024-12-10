@@ -21,3 +21,7 @@ This is a drag-and-drop custom clothing pack designed for use on FiveM servers. 
 
 ### Terms:
 This resource is only for use on FiveM servers. Redistribution, replication, or sale is strictly prohibited.
+
+
+
+**Theres is also a replace file included**
