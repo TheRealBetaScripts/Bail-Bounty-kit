@@ -1,0 +1,9 @@
+License Agreement for Beta-Scripts Content
+
+This content is exclusively intended for use on FiveM servers. Redistribution, resale, replication, or any commercial use outside of FiveM is strictly prohibited. By using this content, you agree to the following terms:
+
+    Usage: This content may only be used within the FiveM framework for personal or server use. It must not be shared, resold, or redistributed without explicit permission from the creator.
+
+    Commercial Restrictions: This content is not for sale. Any form of commercial exploitation (selling, licensing, leasing) is forbidden.
+    
+    Enforcement: Violation of these terms will result in immediate revocation of your rights to use this content and possible legal action.
