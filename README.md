@@ -1,3 +1,7 @@
+Description:
+
+Introducing the Bail Enforcement Bounty Hunter Clothing Pack, a free collection designed in the Bail Bounty style. This pack includes both replace and addon versions, available exclusively for male characters. To use the replace option, you must rename the file to match the clothing item you wish to replace (e.g., mp_m_freemode_01_mp_m_christmas2017_accs_009 or similar).
+
 # bs_bdbmale Clothes Add-on - README
 
 ### Description:
